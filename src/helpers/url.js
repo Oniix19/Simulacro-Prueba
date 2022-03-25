@@ -1,0 +1,1 @@
+export const url = "https://prueba1207.herokuapp.com/juegos"
